@@ -1,8 +1,8 @@
 # file: generic-users/meta/main.yml
 
 galaxy_info:
-  author: pjan vandaele
-  company: ANXS
+  author: yfix
+  company: Yfix group
   description: Manage users
   min_ansible_version: 1.8
   license: MIT

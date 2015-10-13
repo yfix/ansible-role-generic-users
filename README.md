@@ -1,4 +1,4 @@
-## ANXS - generic-users [![Build Status](https://travis-ci.org/ANXS/generic-users.png)](https://travis-ci.org/ANXS/generic-users)
+## Ansible role generic-users [![Build Status](https://travis-ci.org/yfix/ansible-role-generic-users.png)](https://travis-ci.org/yfix/ansible-role-generic-users)
 
 Ansible role which manages the groups and user accounts.
 
@@ -46,13 +46,3 @@ genericusers_users_removed:
 This project comes with a VagrantFile, this is a fast and easy way to test changes to the role, fire it up with `vagrant up`
 
 See [vagrant docs](https://docs.vagrantup.com/v2/) for getting setup with vagrant
-
-
-#### License
-
-Licensed under the MIT License. See the LICENSE file for details.
-
-
-#### Feedback, bug-reports, requests, ...
-
-Are [welcome](https://github.com/ANXS/generic-users/issues)!
